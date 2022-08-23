@@ -18,6 +18,23 @@ Deletar usuário: Digite "deletar" no módulo principal para começar a remoçã
 Ver usuários na máquina: Digite "usuario" no módulo principal para visualizar os usuários na máquina.  
   
 Ver propriedades de um usuário: Digite "status" no módulo principal para visualizar as propriedades de um usuário e siga as orientações.  
+  
+Cancelar tarefa e retornar ao módulo principal: Digite --cancel em qualquer tela do programa.  
+  
+Ajuda do programa: Digite --help em qualquer tela do programa.  
+  
+Checar versão do programa: Digite --version em qualquer tela do programa.  
+
+## Comandos
+Explicações detalhada em Funcionalidades:  
+  
+criar = *criar novo usuário*  
+deletar = *deleta usuário existente*  
+usuario = *visualiza usuários*  
+status = *verifica propriedades de um usuário*  
+--cancel = *cancela ação*  
+--help = *ajuda*  
+--version = *checa versão do programa*  
 
 ## Possíveis Problemas
 Caso esteja tendo problemas, siga as seguintes soluções e tente executar novamente o programa:  
